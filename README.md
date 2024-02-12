@@ -43,11 +43,11 @@ $ jpscore
 
 This is with after version 0.7 or 0.8.
 
-<img src='https://github.com/ytakefuji/covid_score_japan/raw/main/jpscoreEN.jpg' width=397 height=1393>
+<img src='https://github.com/y-takefuji/covid_score_japan/raw/main/jpscoreEN.jpg' width=397 height=1393>
 
 This is with version 0.1~0.6.
 
-<img src='https://github.com/ytakefuji/covid_score_japan/raw/main/result.png' width=397 height=1393>
+<img src='https://github.com/y-takefuji/covid_score_japan/raw/main/result.png' width=397 height=1393>
 
 # Exercises
 <pre>
